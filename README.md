@@ -8,7 +8,7 @@ Requirements:
 
 Step1: Install Selenium
 
-```vinay@vinay:~$pip install selenium
+```vinay@vinay:~$pip install selenium ```
 
 Step 2: Download Chrome Webdrive
 
