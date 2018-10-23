@@ -2,10 +2,10 @@
 
 #### Run the command to Send Message
 
-``` python whatsapp_sendmessage.py 
+``` python whatsapp_sendmessage.py ```
 
 
-#### Run the command to get Recent Chat Contacts
+####Run the command to get Recent Chat Contacts
 
 ``` python whatsapp_contacts.py ```
 
