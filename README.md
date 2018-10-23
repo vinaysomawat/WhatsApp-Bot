@@ -1,4 +1,4 @@
-#Spam WhatsApp Contact
+#### Spam WhatsApp Contact
 This is done using python selenium.
 
 Requirements:
@@ -40,8 +40,8 @@ Step 7: Successfully Message sent.
 ``` python whatsapp_sendmessage.py ```
 
 
-####Run the command to get Recent Chat Contacts
+#### Run the command to get Recent Chat Contacts
 
 ``` python whatsapp_contacts.py ```
 
-#Vinay Somawat
+#### Vinay Somawat
