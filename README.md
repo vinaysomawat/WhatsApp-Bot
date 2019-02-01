@@ -1,4 +1,4 @@
-#### Spam WhatsApp Contact
+#### WhatsApp Bot
 This is done using python selenium.
 
 Requirements:
